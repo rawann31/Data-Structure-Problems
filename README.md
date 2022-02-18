@@ -1,5 +1,7 @@
 # Data-Structure
 These are 2 data structure assignments to solve some problems :
+
+
 The first assignment :
   1. Apply Insertion sort on a singly linked list.
   2. Remove elements from a doubly linked list. 
